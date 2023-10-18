@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "easysurvival",
+    "name": "EasySurvival",
+    "description": "让你的生存更加简单！",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Roinflam"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
